@@ -12,7 +12,7 @@ Quick Sort              47,943          10,381           5,056           1,695
 Bubble Sort         16,549,794       8,158,112       5,054,834              25
 
 # Performance chart:
-
+![Project Screenshot](Graph-jpg.jpeg)
 
 # Result analysis:
 Comparative performance analysis between O(N^2) and O(N log N) algorithms:
